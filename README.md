@@ -47,3 +47,12 @@ IDE configuration, shell, environment variables, and dependency management.\
 ## Status
 
 The repository is in the initialization stage. Other category folder structures will be added gradually as new documentation requires.
+
+## 👤 Author & Credits
+Created with ❤️ by Rinwikun
+Distributed under the [MIT License](https://github.com/Rinwikun/FixIt-Wiki-Helper/blob/main/LICENSE).
+
+## ☕ Support the Project
+[![Trakteer](https://img.shields.io/badge/Trakteer-Traktir%20Coffee-red?style=for-the-badge&logo=coffee&logoColor=white)](https://trakteer.id/erwin%20wijaya)
+[![Saweria](https://img.shields.io/badge/Saweria-Support%20Me-orange?style=for-the-badge&logo=heart&logoColor=white)](https://saweria.co/Rinwikun23)
+[![Paypal](https://img.shields.io/badge/Paypal-Support%20Me-orange?style=for-the-badge&logo=heart&logoColor=white)](https://paypal.me/Rinwikun)
