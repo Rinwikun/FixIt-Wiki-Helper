@@ -38,6 +38,8 @@ IDE configuration, shell, environment variables, and dependency management.\
 -[Environment Variables & .env Not Loading](./Dev-Environment/env-variables-not-loading.md)
 ## Status
 The repository is in the initialization stage. Other category folder structures will be added gradually as new documentation requires.
+## 💡 Suggestions & Discussions
+Have an idea for a new troubleshooting topic, found an issue not yet documented, or want to share a problem you're facing? Open a new [Issue](https://github.com/Rinwikun/FixIt-Wiki-Helper/issues/1) — tag it with `idea` or `discussion` so it's easy to find.
 ## 👤 Author & Credits
 Created with ❤️ by Rinwikun
 Distributed under the [MIT License](https://github.com/Rinwikun/FixIt-Wiki-Helper/blob/main/LICENSE).
