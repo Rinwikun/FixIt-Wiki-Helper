@@ -39,12 +39,12 @@ IDE configuration, shell, environment variables, and dependency management.\
 
 ## Contribution Convention
 
-1. **Document Structure:**Every technical `.md` file must contain three core sections:
+1. **Document Structure:** Every technical `.md` file must contain three core sections:
    -**Problem /Context**
    -**Root Cause**
    -**Resolution /Steps**
-2. **File & Folder Naming:**Use `lowercase-kebab-case` (example: `shared-clipboard.md`, `ubuntu-desktop/`).
-3. **Markdown Format:**Use tiered headings (`##`, `###`), code blocks for commands, and bullet points for easy-to-scan points.
+2. **File & Folder Naming:** Use `lowercase-kebab-case` (example: `shared-clipboard.md`, `ubuntu-desktop/`).
+3. **Markdown Format:** Use tiered headings (`##`, `###`), code blocks for commands, and bullet points for easy-to-scan points.
 
 ## Status
 
