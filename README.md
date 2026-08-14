@@ -35,7 +35,7 @@ Diagnose network problems, DNS, proxy and firewall configuration.\
 
 ### ⚙️ Dev Environment & Tooling
 IDE configuration, shell, environment variables, and dependency management.\
---[Environment Variables & .env Not Loading](./Dev-Environment/env-variables-not-loading.md)
+-[Environment Variables & .env Not Loading](./Dev-Environment/env-variables-not-loading.md)
 
 ## Contribution Convention
 
