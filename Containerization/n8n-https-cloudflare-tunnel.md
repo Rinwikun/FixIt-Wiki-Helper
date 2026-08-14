@@ -18,6 +18,8 @@ n8n has no awareness of how it is being accessed externally unless explicitly to
 
 **Cloudflare Tunnel** (`cloudflared`) solves the first problem by creating an outbound-only tunnel from the local machine to Cloudflare's edge, which issues a public HTTPS URL (`*.trycloudflare.com` for quick tunnels) — without opening any inbound ports or configuring a certificate manually. The second problem is solved by explicitly passing that tunnel URL into n8n's environment variables at startup.
 
+**Note:** Most n8n HTTPS tutorials rely on a **paid** domain plus a reverse proxy (Nginx/Caddy) and a purchased/managed TLS certificate. The approach below uses Cloudflare's **quick tunnel** mode, which requires no domain, no Cloudflare account, and no cost — a fully free alternative for exposing n8n over HTTPS, at the trade-off of a randomly generated, non-persistent URL (see the operational notes at the end of this guide).
+
 ## Resolution / Steps
 
 ### 1. Install `cloudflared`
