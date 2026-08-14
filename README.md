@@ -29,7 +29,7 @@ Troubleshooting Docker, Docker Compose, and other container orchestrators.\
 
 ### 🌐 Networking & Connectivity
 Diagnose network problems, DNS, proxy and firewall configuration.\
--*(folder: `Networking/` — will be populated as the document grows)*
+-[DNS Resolution Issues](./Networking/common-issues.md)
 
 ### ⚙️ Dev Environment & Tooling
 IDE configuration, shell, environment variables, and dependency management.\
