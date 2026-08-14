@@ -36,20 +36,8 @@ Diagnose network problems, DNS, proxy and firewall configuration.\
 ### ⚙️ Dev Environment & Tooling
 IDE configuration, shell, environment variables, and dependency management.\
 -[Environment Variables & .env Not Loading](./Dev-Environment/env-variables-not-loading.md)
-
-## Contribution Convention
-
-1. **Document Structure:** Every technical `.md` file must contain three core sections:
-   -**Problem /Context**
-   -**Root Cause**
-   -**Resolution /Steps**
-2. **File & Folder Naming:** Use `lowercase-kebab-case` (example: `shared-clipboard.md`, `ubuntu-desktop/`).
-3. **Markdown Format:** Use tiered headings (`##`, `###`), code blocks for commands, and bullet points for easy-to-scan points.
-
 ## Status
-
 The repository is in the initialization stage. Other category folder structures will be added gradually as new documentation requires.
-
 ## 👤 Author & Credits
 Created with ❤️ by Rinwikun
 Distributed under the [MIT License](https://github.com/Rinwikun/FixIt-Wiki-Helper/blob/main/LICENSE).
