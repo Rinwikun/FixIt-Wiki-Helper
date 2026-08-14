@@ -26,6 +26,7 @@ Guide to conflict resolution, repository configuration, and workflow branching.\
 ### 🐳 Containerization & Orchestration
 Troubleshooting Docker, Docker Compose, and other container orchestrators.\
 -[Common Containerization & Orchestration Issues](./Containerization/common-issues.md)\
+-[Enabling HTTPS for n8n via Cloudflare Tunnel](./Containerization/n8n-https-cloudflare-tunnel.md)
 
 ### 🌐 Networking & Connectivity
 Diagnose network problems, DNS, proxy and firewall configuration.\
