@@ -8,9 +8,6 @@ Each document follows the standard format **Problem /Context → Root Cause → 
 
 Documentation is grouped by technical domain. Each category has its own modular folder.
 
-### Github
-Essential Git commands cheat sheet covering everyday version control workflows, remote synchronization, and tag management.\
--[Step Git General](./git/git-general.md)
 
 ### 🖥️ Virtualization
 Configuration and troubleshooting guide for virtualization platforms (VirtualBox, VMware, etc.).\
@@ -24,7 +21,8 @@ System configuration, package management, permissions, and command-line utilitie
 
 ### 🔀 Git & Version Control
 Guide to conflict resolution, repository configuration, and workflow branching.\
--*(folder: `Git-VersionControl/` — will be populated as the document grows)*
+-[Step Git General](./git/git-general.md)\
+-[Resolving Merge Conflicts](./git/resolving-merge-conflicts.md)
 ### 🐳 Containerization & Orchestration
 Troubleshooting Docker, Docker Compose, and other container orchestrators.\
 -*(folder: `Containerization/` — will be populated as the document grows)*
