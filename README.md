@@ -13,7 +13,7 @@ Documentation is grouped by technical domain. Each category has its own modular 
 Configuration and troubleshooting guide for virtualization platforms (VirtualBox, VMware, etc.).\
 -[VirtualBox /Ubuntu Desktop](./VirtualBox/ubuntu-desktop/)
 \
--[Shared Clipboard Not Working](./VirtualBox/ubuntu-desktop/shared-clipboard.md)
+-[Shared Clipboard Not Working](./VirtualBox/ubuntu-desktop/shared-clipboard.md)\
 
 ### 🐧 Linux Systems & Tools
 System configuration, package management, permissions, and command-line utilities in a Linux environment.\
@@ -21,11 +21,11 @@ System configuration, package management, permissions, and command-line utilitie
 
 ### 🔀 Git & Version Control
 Guide to conflict resolution, repository configuration, and workflow branching.\
--[Step Git General](./git/git-general.md)\
--[Resolving Merge Conflicts](./git/resolving-merge-conflicts.md)
+-[Git General Cheat Sheet](./git/git-general.md)\
+-[Resolving Merge Conflicts](./git/resolving-merge-conflicts.md)\
 ### 🐳 Containerization & Orchestration
 Troubleshooting Docker, Docker Compose, and other container orchestrators.\
--*(folder: `Containerization/` — will be populated as the document grows)*
+-[Common Containerization & Orchestration Issues](./Containerization/common-issues.md)\
 
 ### 🌐 Networking & Connectivity
 Diagnose network problems, DNS, proxy and firewall configuration.\
