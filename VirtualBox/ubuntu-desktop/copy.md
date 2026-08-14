@@ -1,0 +1,1 @@
+sudo apt update && sudo apt install -y bzip2 tar build-essential dkms linux-headers-generic
