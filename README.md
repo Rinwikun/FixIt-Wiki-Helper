@@ -17,7 +17,7 @@ Configuration and troubleshooting guide for virtualization platforms (VirtualBox
 
 ### 🐧 Linux Systems & Tools
 System configuration, package management, permissions, and command-line utilities in a Linux environment.\
--*(folder: `Linux-Systems/` — will be populated as the document grows)*
+-[File & Folder Permission Errors](./Linux-Systems/file-permission-errors.md)
 
 ### 🔀 Git & Version Control
 Guide to conflict resolution, repository configuration, and workflow branching.\
@@ -34,6 +34,7 @@ Diagnose network problems, DNS, proxy and firewall configuration.\
 ### ⚙️ Dev Environment & Tooling
 IDE configuration, shell, environment variables, and dependency management.\
 -*(folder: `Dev-Environment/` — will be populated as the document grows)*
+--[Environment Variables & .env Not Loading](./Dev-Environment/env-variables-not-loading.md)
 
 ## Contribution Convention
 
