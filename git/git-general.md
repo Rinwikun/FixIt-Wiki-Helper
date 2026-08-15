@@ -134,6 +134,26 @@ git tag -d v1.0.0
 
 **Note:** Deleting a local tag does **not** remove it from the remote — both commands are typically required together when correcting a mistaken release tag.
 
+**Tag List**
+```bash
+git tag -l
+```
+or
+```bash
+git tag --list
+```
+Display All Tags: If run without additional arguments, this command will list all existing tags in sequence.
+
+```bash
+git tag -l "v1.*"
+```
+or
+```bash
+git tag -l "*beta*"
+```
+Filtering Tags Using Specific Patterns (Wildcards): You can search for tags that match a specific pattern using an asterisk (*).\
+Note: When using a wildcard pattern, the -l or --list argument is mandatory.
+
 ---
 
 ### 7. Essential Daily-Use Utilities
