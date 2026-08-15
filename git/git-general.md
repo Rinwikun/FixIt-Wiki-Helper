@@ -145,10 +145,12 @@ git tag --list
 Display All Tags: If run without additional arguments, this command will list all existing tags in sequence.
 
 ```bash
+# Only show tags for version 1.x
 git tag -l "v1.*"
 ```
 or
 ```bash
+# Only show tags containing the word "beta"
 git tag -l "*beta*"
 ```
 Filtering Tags Using Specific Patterns (Wildcards): You can search for tags that match a specific pattern using an asterisk (*).\
