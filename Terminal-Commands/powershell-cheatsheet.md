@@ -2,7 +2,7 @@
 
 ## Problem / Context
 
-PowerShell is the modern default shell on Windows, built around structured object pipelines rather than plain text. This cheat sheet consolidates commonly used PowerShell cmdlets with brief explanations, scoped strictly to PowerShell syntax (prompt style: `PS C:\Users\[Type your laptop brand name or your name]>`).
+PowerShell is the modern default shell on Windows, built around structured object pipelines rather than plain text. This cheat sheet consolidates commonly used PowerShell cmdlets with brief explanations, scoped strictly to PowerShell syntax (prompt style: `PS C:\Users\LOQ>`).
 
 ## Root Cause
 

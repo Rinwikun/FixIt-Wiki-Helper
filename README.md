@@ -13,9 +13,9 @@ Documentation is grouped by technical domain. Each category has its own modular 
 Quick-reference command cheat sheets for daily terminal work, organized by shell type (not OS, since a shell can run across multiple operating systems).\
 -[Bash Cheat Sheet](./Terminal-Commands/bash-cheatsheet.md)\
 -[CMD (Command Prompt) Cheat Sheet](./Terminal-Commands/cmd-cheatsheet.md)\
--[PowerShell Cheat Sheet](./Terminal-Commands/powershell-cheatsheet.md)
+-[PowerShell Cheat Sheet](./Terminal-Commands/powershell-cheatsheet.md)\
 -[Bourne Shell (sh) Cheat Sheet](./Terminal-Commands/sh-cheatsheet.md)\
--[Zsh (Z Shell) Cheat Sheet](./Terminal-Commands/zsh-cheatsheet.md)
+-[Zsh (Z Shell) Cheat Sheet](./Terminal-Commands/zsh-cheatsheet.md)\
 
 ### 🖥️ Virtualization
 Configuration and troubleshooting guide for virtualization platforms (VirtualBox, VMware, etc.).\
