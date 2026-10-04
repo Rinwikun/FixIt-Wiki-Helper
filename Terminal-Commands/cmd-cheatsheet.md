@@ -2,7 +2,7 @@
 
 ## Problem / Context
 
-Command Prompt (`cmd.exe`) remains widely used on Windows for scripting, legacy tooling, and quick system operations. This cheat sheet consolidates commonly used `cmd` commands with brief explanations, scoped strictly to classic Command Prompt syntax (prompt style: `C:\Users\LOQ>`).
+Command Prompt (`cmd.exe`) remains widely used on Windows for scripting, legacy tooling, and quick system operations. This cheat sheet consolidates commonly used `cmd` commands with brief explanations, scoped strictly to classic Command Prompt syntax (prompt style: `C:\Users\[Type your laptop brand name or your name]>`).
 
 ## Root Cause
 

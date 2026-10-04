@@ -1,4 +1,4 @@
-<h1 align="center">FixIt-Wiki-Helper</h1>
+![Header](./header-title.png)
 
 ## Project Description
 
@@ -16,6 +16,18 @@ Quick-reference command cheat sheets for daily terminal work, organized by shell
 -[PowerShell Cheat Sheet](./Terminal-Commands/powershell-cheatsheet.md)\
 -[Bourne Shell (sh) Cheat Sheet](./Terminal-Commands/sh-cheatsheet.md)\
 -[Zsh (Z Shell) Cheat Sheet](./Terminal-Commands/zsh-cheatsheet.md)\
+-[C Shell (csh/tcsh) Cheat Sheet](./Terminal-Commands/csh-cheatsheet.md)\
+-[Korn Shell (ksh) Cheat Sheet](./Terminal-Commands/ksh-cheatsheet.md)\
+-[Fish Cheat Sheet](./Terminal-Commands/fish-cheatsheet.md)\
+-[Dash Cheat Sheet](./Terminal-Commands/dash-cheatsheet.md)\
+-[BusyBox ash Cheat Sheet](./Terminal-Commands/busybox-ash-cheatsheet.md)\
+-[mksh (Android Default Shell) Cheat Sheet](./Terminal-Commands/mksh-cheatsheet.md)\
+-[Nushell Cheat Sheet](./Terminal-Commands/nushell-cheatsheet.md)\
+-[Git Bash/MSYS2/Cygwin Cheat Sheet](./Terminal-Commands/git-bash-msys2-cygwin-cheatsheet.md)\
+-[Historical Shells (Reference)](./Terminal-Commands/historical-shells.md)\
+-[Restricted Shells & Login-Denial Mechanisms](./Terminal-Commands/restricted-shells.md)\
+-[WSL Cheat Sheet](./Terminal-Commands/wsl-cheatsheet.md)\
+-[Niche & Modern Experimental Shells](./Terminal-Commands/niche-modern-shells.md)\
 
 ### 🖥️ Virtualization
 Configuration and troubleshooting guide for virtualization platforms (VirtualBox, VMware, etc.).\
@@ -39,6 +51,7 @@ Troubleshooting Docker, Docker Compose, and other container orchestrators.\
 ### 🌐 Networking & Connectivity
 Diagnose network problems, DNS, proxy and firewall configuration.\
 -[DNS Resolution Issues](./Networking/common-issues.md)
+-[Network Device CLI Cheat Sheet (Cisco/Junos/MikroTik/Arista)](./Networking/network-device-cli-cheatsheet.md)
 
 ### ⚙️ Dev Environment & Tooling
 IDE configuration, shell, environment variables, and dependency management.\
